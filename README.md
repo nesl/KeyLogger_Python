@@ -11,8 +11,10 @@ Unofficial Windows Binaries for Python Extension Packages: http://www.lfd.uci.ed
 
 # Mac Os dependecies
 Python 3.6.0
-AppKit module - pip3 install Appkit
-Pynput module - pip3 install pynput
+AppKit module - "pip3 install Appkit"
+Pynput module - "pip3 install pynput"
 
-Keylogger.py - Records all the characters
+keylogger.py - Records all the characters
 keylogger_anon.py - Anonymized version: Records alphanumeric characters as 'Left'/'Right' and special characters are recorded as it is
+
+Usage: sudo python3 keylogger_anon.py
